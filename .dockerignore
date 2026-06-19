@@ -1,0 +1,5 @@
+.git
+cdk/
+app/node_modules/
+app/dist/
+prompt_history/
